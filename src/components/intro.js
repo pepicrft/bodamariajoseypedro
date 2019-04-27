@@ -25,7 +25,7 @@ const Intro = () => {
     return (
       <div>
         <img width="200" height="200" src={cartoon} />
-        <h1>Pedro y María José's wedding</h1>
+        <h1>Pedro & María José's Wedding</h1>
         <Language />
         <p>👋 Hi xxx y zzzz!</p>
         <p>
