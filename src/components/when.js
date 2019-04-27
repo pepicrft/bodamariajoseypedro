@@ -1,5 +1,5 @@
 import React from "react"
-const Place = () => {
+const When = () => {
   return (
     <div>
       <h2>¿Dónde?</h2>
@@ -15,4 +15,4 @@ const Place = () => {
     </div>
   )
 }
-export default Place
+export default When
