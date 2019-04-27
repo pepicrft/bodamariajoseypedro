@@ -4,6 +4,8 @@ import Intro from "../components/intro"
 import When from "../components/when"
 import Place from "../components/place"
 import Meta from "../components/meta"
+import Confirmation from "../components/confirmation"
+import Other from "../components/other"
 import LanguageContext from "../components/language-context"
 import GuestsContext from "../components/guests-context"
 
@@ -19,6 +21,8 @@ const IndexPage = () => {
           <Intro />
           <Place />
           <When />
+          <Confirmation />
+          <Other />
         </LanguageContext.Provider>
       </GuestsContext.Provider>
     </Layout>

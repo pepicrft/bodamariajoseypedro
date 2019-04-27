@@ -6,7 +6,7 @@ const When = () => {
   if (language === "spanish") {
     return (
       <div>
-        <h2>Cuándo</h2>
+        <h2>Cuándo 📆</h2>
         <p>
           La boda la celebraremos el <b>sábado 21 de septiembre de 2019</b> a
           mediodía. <i>¿Por qué septiembre?</i> La Región de Murcia se
@@ -19,7 +19,7 @@ const When = () => {
   } else {
     return (
       <div>
-        <h2>When</h2>
+        <h2>When 📆</h2>
         <p>
           The wedding will be celebrated on <b>Saturday September 21st, 2019</b>{" "}
           at noon. <i>Why September?</i> In The Region of Murcia is common to

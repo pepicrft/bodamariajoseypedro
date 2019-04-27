@@ -17,7 +17,7 @@ const Layout = ({ children }) => {
   return (
     <>
       <StyledDiv background={["white", "#ffddb7"]} px={[30, 150]}>
-        <StyledMain background={"white"} p={[0, 30]}>
+        <StyledMain background={"white"} p={[0, 50]}>
           {children}
         </StyledMain>
       </StyledDiv>

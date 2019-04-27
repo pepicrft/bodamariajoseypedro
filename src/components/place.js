@@ -7,7 +7,7 @@ const Place = () => {
   if (language === "spanish") {
     return (
       <div>
-        <h2>Dónde</h2>
+        <h2>Dónde 🏡</h2>
         <p>
           La boda tendrá lugar en <b>Cieza</b>, el pueblo que nos vio crecer.
           Concretamente, la celebración será en{" "}
@@ -25,7 +25,7 @@ const Place = () => {
   } else {
     return (
       <div>
-        <h2>Where</h2>
+        <h2>Where 🏡</h2>
         <p>
           The wedding will take place in <b>Cieza</b>, the town that saw us grow
           up. Specifically, the celebration will take place in{" "}
