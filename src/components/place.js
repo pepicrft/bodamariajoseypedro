@@ -2,7 +2,7 @@ import React from "react"
 const Place = () => {
   return (
     <div>
-      <h2>¿Dónde?</h2>
+      <h2>¿Dónde? ⛰</h2>
       <p>
         La boda tendrá lugar en Cieza, el pueblo que nos vio crecer.
         Concretamente, la celebración será en La Casa de la Campana, una bella

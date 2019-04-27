@@ -1,14 +1,10 @@
-/**
- * Layout component that queries for data
- * with Gatsby's StaticQuery component
- *
- * See: https://www.gatsbyjs.org/docs/static-query/
- */
-
 import React from "react"
+import GlobalStyle from "./global-style"
+
 const Layout = ({ children }) => {
   return (
     <>
+      <GlobalStyle />
       <div
         style={{
           margin: `0 auto`,
