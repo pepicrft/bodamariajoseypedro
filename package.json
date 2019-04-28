@@ -21,6 +21,7 @@
     "react-helmet": "^5.2.0",
     "react-typography": "^0.16.19",
     "rebass": "^3.1.0",
+    "shorten": "^0.1.0",
     "styled-components": "^4.2.0",
     "styled-system": "^4.1.0",
     "typography": "^0.16.19",
