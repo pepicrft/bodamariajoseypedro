@@ -13,7 +13,7 @@ const Turism = () => {
         <p>
           Aunque no sea tan conocida, Murcia es una región rural con bellas
           zonas que visitar. En caso de que tengas intenciones de aprovechar el
-          viaje para conocer nuestro entorno, échale un vistazo a ests páginas
+          viaje para conocer nuestro entorno, échale un vistazo a estas páginas
           donde encontrarás muchas opciones:{" "}
           <div>
             <a href="https://www.murciaturistica.es/" target="__blank">
