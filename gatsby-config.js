@@ -4,6 +4,7 @@ module.exports = {
     description: `Información de la boda de María José y Pedro el próximo 21 de septiembre`,
   },
   plugins: [
+    `gatsby-plugin-styled-components`,
     `gatsby-plugin-react-helmet`,
     {
       resolve: `gatsby-plugin-typography`,
