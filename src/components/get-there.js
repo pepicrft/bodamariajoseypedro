@@ -128,9 +128,9 @@ const GetThere = () => {
               Hospedería San Sebastián
             </a>{" "}
             have rooms available. Please do not hesitate to contact us if you
-            need help with any of the options or any other. Please do not
-            hesitate to contact us if you decide on one of these places
-            mentioned above, as we have discounts for both.
+            need help with any of the options. If you decide on one of thse
+            places mentioned above, let us know because we might get you some
+            discount.
           </li>
           <li style={listItemStyle}>
             There is a taxi service in the town but it would be very convenient
