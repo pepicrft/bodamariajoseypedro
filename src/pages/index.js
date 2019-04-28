@@ -17,18 +17,6 @@ const IndexPage = () => {
   const [guests, setGuests] = useState({ guests: [] })
 
   useEffect(() => {
-    const browserLang = navigator.language || navigator.userLanguage
-    if (!browserLang) {
-      return
-    }
-    if (browserLang.includes("en")) {
-      setLanguage("english")
-    } else {
-      setLanguage("spanish")
-    }
-  }, language)
-
-  useEffect(() => {
     const urlParams = new URLSearchParams(window.location.search)
     const guests = { guests: urlParams.getAll("guest") }
     setGuests(guests)
