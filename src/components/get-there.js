@@ -39,9 +39,11 @@ const GetThere = () => {
             <a href="http://www.sansebastianhospederia.com/" target="__blank">
               Hospedería San Sebastián
             </a>{" "}
-            tienen habitaciones disponibles. Por favor, no dudes en contactarnos
-            si te decides por alguno de estos lugares, pues contamos con
-            descuentos para ambos.
+            tienen habitaciones disponibles. Por favor, ponte en contacto con{" "}
+            <a href="mailto:hola@eternaprometida.com">
+              hola@eternaprometida.com
+            </a>
+            , quien te ayudará con al reserva de una habitación.
           </li>
           <li style={listItemStyle}>
             Existe un servicio de taxis en el pueblo pero sería muy conveniente
@@ -83,9 +85,11 @@ const GetThere = () => {
             <a href="http://www.sansebastianhospederia.com/" target="__blank">
               Hospedería San Sebastián
             </a>{" "}
-            tienen habitaciones disponibles. Por favor, no dudéis en
-            contactarnos si os decidís por alguno de estos lugares, pues
-            contamos con descuentos para ambos.
+            tienen habitaciones disponibles. Por favor, poneros en contacto con{" "}
+            <a href="mailto:hola@eternaprometida.com">
+              hola@eternaprometida.com
+            </a>
+            , quien os ayudará con al reserva de una habitación.
           </li>
           <li style={listItemStyle}>
             Existe un servicio de taxis en el pueblo pero sería muy conveniente
@@ -127,10 +131,11 @@ const GetThere = () => {
             <a href="http://www.sansebastianhospederia.com/" target="__blank">
               Hospedería San Sebastián
             </a>{" "}
-            have rooms available. Please do not hesitate to contact us if you
-            need help with any of the options. If you decide on one of thse
-            places mentioned above, let us know because we might get you some
-            discount.
+            have rooms available. Please, contact{" "}
+            <a href="mailto:hola@eternaprometida.com">
+              hola@eternaprometida.com
+            </a>
+            , who will help you book your accommodation.
           </li>
           <li style={listItemStyle}>
             There is a taxi service in the town but it would be very convenient
