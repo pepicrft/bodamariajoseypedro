@@ -8,6 +8,7 @@ import Confirmation from "../components/confirmation"
 import Other from "../components/other"
 import Turism from "../components/turism"
 import GetThere from "../components/get-there"
+import { Box } from "rebass"
 
 import LanguageContext from "../components/language-context"
 import GuestsContext from "../components/guests-context"
