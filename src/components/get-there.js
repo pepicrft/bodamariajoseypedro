@@ -30,7 +30,7 @@ const GetThere = () => {
             Cieza es un pueblo de 35 mil habitantes con escasas opciones de
             alojamiento y donde AirBnB no es todavía muy famoso.
           </li>
-          <li style={listItemStyle}>
+          {/* <li style={listItemStyle}>
             El mismo lugar de celebración,{" "}
             <a href="http://www.casadelacampana.com/" target="__blank">
               La Casa de la Campana
@@ -44,7 +44,7 @@ const GetThere = () => {
               hola@eternaprometida.com
             </a>
             , quien te ayudará con al reserva de una habitación.
-          </li>
+          </li> */}
           <li style={listItemStyle}>
             Existe un servicio de taxis en el pueblo pero sería muy conveniente
             prever si se necesitará algún servicio en concreto para hacer
@@ -76,7 +76,7 @@ const GetThere = () => {
             Cieza es un pueblo de 35 mil habitantes con escasas opciones de
             alojamiento y donde AirBnB no es todavía muy famoso.
           </li>
-          <li style={listItemStyle}>
+          {/* <li style={listItemStyle}>
             El mismo lugar de celebración,{" "}
             <a href="http://www.casadelacampana.com/" target="__blank">
               La Casa de la Campana
@@ -90,7 +90,7 @@ const GetThere = () => {
               hola@eternaprometida.com
             </a>
             , quien os ayudará con al reserva de una habitación.
-          </li>
+          </li> */}
           <li style={listItemStyle}>
             Existe un servicio de taxis en el pueblo pero sería muy conveniente
             prever si se necesitará algún servicio en concreto para hacer
@@ -122,7 +122,7 @@ const GetThere = () => {
             Cieza is a village of 35,000 inhabitants with few accommodation
             options and where AirBnB is not yet very famous.
           </li>
-          <li style={listItemStyle}>
+          {/* <li style={listItemStyle}>
             The same venue,{" "}
             <a href="http://www.casadelacampana.com/" target="__blank">
               La Casa de la Campana
@@ -136,7 +136,7 @@ const GetThere = () => {
               hola@eternaprometida.com
             </a>
             , who will help you book your accommodation.
-          </li>
+          </li> */}
           <li style={listItemStyle}>
             There is a taxi service in the town but it would be very convenient
             to anticipate if any particular service will be needed to make
