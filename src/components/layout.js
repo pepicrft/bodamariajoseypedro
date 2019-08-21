@@ -33,8 +33,8 @@ const Layout = ({ children }) => {
         {children}
       </StyledMain>
       <StyledAccount
-        fontSize={2}
-        p={2}
+        fontSize={3}
+        p={4}
         bg={["white", "#ffddb7"]}
         color="#604a30"
       >
